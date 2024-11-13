@@ -1,4 +1,4 @@
 # bot-o-do-panico
 ele faz tocar um audio medonho de medo
 
-!{}(https://caallop.github.io/botao-do-panico/)
+![](https://raw.githubusercontent.com/caallop/botao-do-panico/refs/heads/main/img/qrcode_caallop.github.io.png)
