@@ -25,11 +25,13 @@ function audios() {
 botao.addEventListener('touchstart', (event) => {
     event.preventDefault()
     audio();
+    ligar()
 })
 
 botao.addEventListener('touchend', (event) => {
     event.preventDefault()
     audios();
+    desligar()
 })
 
 
